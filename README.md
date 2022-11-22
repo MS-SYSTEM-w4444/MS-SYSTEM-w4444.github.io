@@ -1,3 +1,3 @@
 # MS-SYSTEM-w4444.github.io
-# yesmyfault
+# Windows 10 OOBE
 # bili_MS-SYSTEM-WIN
